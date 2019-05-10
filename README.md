@@ -25,3 +25,5 @@
 23. 盒模型转换 box-sizing: border-box
 24. 背景定位
 25. 可搜索视频教程在渡一教育
+效果图<br>
+![images](https://github.com/bzy008/TaoBao-website-exercise-/blob/master/images/design%20sketch.png)
